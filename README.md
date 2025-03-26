@@ -1,6 +1,6 @@
-# mitra_delima_ai
+# Mitra Delima AI
 
-A new Flutter project.
+Projek ini ditujukan untuk menganalisa data excel menggunakan model AI
 
 ## Getting Started
 
